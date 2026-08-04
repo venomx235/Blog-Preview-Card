@@ -11,7 +11,7 @@ This is my solution to the Blog Preview Card challenge on Frontend Mentor.
 
 ## Links
 
-- Solution URL: 
+- Solution URL: https://github.com/venomx235/Blog-Preview-Card.git
 - Live Site URL: 
 
 ## My process
